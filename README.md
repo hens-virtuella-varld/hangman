@@ -1,0 +1,3 @@
+# Hangman
+
+Practice for VanillaJS
