@@ -48,3 +48,20 @@ table {
 }
 
 /* End of CSS Reset */
+
+svg {
+	margin: 0 auto;
+	border: 1px solid black;
+}
+
+line {
+	stroke: black;
+	stroke-width: 4;
+}
+
+.figure {
+	display: flex;
+	justify-content: center;
+	height: 250; 
+	width: 300;
+}
