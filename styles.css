@@ -65,3 +65,11 @@ line {
 	height: 250; 
 	width: 300;
 }
+
+.hide {
+	visibility: hidden;
+}
+.button {
+		display: flex;
+		justify-content: center;
+}
